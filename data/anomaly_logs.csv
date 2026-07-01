@@ -1,0 +1,41 @@
+log
+OOMKilled
+CrashLoopBackOff
+Kernel panic occurred
+Segmentation fault
+Out of memory
+Database timeout
+Connection refused
+Node Not Ready
+Pod eviction detected
+Container crashed
+Disk full
+Filesystem read-only
+High CPU usage detected
+High memory usage detected
+Memory leak suspected
+Application terminated unexpectedly
+Service unavailable
+HTTP 500 Internal Server Error
+HTTP 503 Service Unavailable
+Liveness probe failed
+Readiness probe failed
+ImagePullBackOff
+ErrImagePull
+Failed to mount volume
+Persistent volume unavailable
+Database connection lost
+Redis connection timeout
+Kafka broker unavailable
+RabbitMQ connection failed
+TLS handshake failed
+Authentication failed
+Authorization denied
+DNS resolution failed
+Network unreachable
+Packet loss detected
+Certificate expired
+API rate limit exceeded
+Process killed by SIGKILL
+Node disk pressure detected
+Container exited with code 137
