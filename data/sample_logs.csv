@@ -1,0 +1,17 @@
+log
+Pod started successfully
+Application started
+Health check passed
+Connected to database
+CPU usage normal
+Memory usage stable
+User logged in
+Disk mounted successfully
+Kernel panic occurred
+Out of memory
+OOMKilled
+Segmentation fault
+Database timeout
+Connection refused
+Container crashed
+Node not ready
