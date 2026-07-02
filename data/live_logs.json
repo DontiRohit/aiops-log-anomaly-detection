@@ -1,0 +1,9 @@
+[
+    "Application started",
+    "User logged in",
+    "OOMKilled",
+    "Database timeout",
+    "Health check passed",
+    "Kernel panic occurred",
+    "CPU usage normal"
+]

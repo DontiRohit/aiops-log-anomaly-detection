@@ -4,3 +4,5 @@ scikit-learn
 joblib
 fastapi
 uvicorn
+elasticsearch==8.17.0
+pytest
